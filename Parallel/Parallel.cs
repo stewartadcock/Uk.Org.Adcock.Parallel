@@ -46,7 +46,7 @@ namespace Uk.Org.Adcock.Parallel
   /// This is an analogue of "Microsoft Parallel Extensions to .NET Framework 3.5, June
   /// 2008 Community Technology Preview" from:
   /// http://www.microsoft.com/downloads/details.aspx?FamilyID=348f73fd-593d-4b3c-b055-694c50d2b0f3&amp;DisplayLang=en
-  /// It is not a full implementation, and should be deprecated when MEDIT switch to
+  /// It is not a full implementation, and should be deprecated by a switch to
   /// Visual Studio 2010/.Net 4.0 by using the Microsoft/Novell Mono equivalents.
   /// Mono already supports the Parallel Extensions.
   /// 
